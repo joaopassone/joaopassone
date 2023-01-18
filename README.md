@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming and learning
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on other students projects
-- 📫 How to reach me: @joao.passone
+- 📫 How to reach me: @joao.passone / joao.passone@gmail.com
 
 <!---
 joaopassone/joaopassone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
