@@ -44,7 +44,7 @@
 
 ##
 
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopassone&show_icons=true&count_private=true&theme=radical)
+![Joao's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joaopassone&show_icons=true&count_private=true&theme=radical)
 
 
 <!---
