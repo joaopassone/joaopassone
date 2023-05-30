@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding, gaming and learning
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking for a job position as Front-end Developer
-- 📫 How to reach me:
+- 📫 How to reach me: joao.passone@gmail.com
 
 <a href='https://www.linkedin.com/in/joaopassone/' >
   <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />
