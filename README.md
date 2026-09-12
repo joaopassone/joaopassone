@@ -1,8 +1,6 @@
 # 👋 Hi, I’m João A. L. Passone
   
 - 👀 I’m interested in coding, gaming and learning
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking for a job position as Front-end Developer
 - 📫 How to reach me: joao.passone@gmail.com
 
 <a href='https://www.linkedin.com/in/joaopassone/' >
